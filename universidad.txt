@@ -1,4 +1,4 @@
-"Mi carrera es Lic.ingeneria informatica!!!!"
-.
-.
-.
+Mi carrera: Lic. Ingeniería informatica 
+Provincia: Coclé 
+Distrito: Antón
+Barrio: Cienega Vieja.

@@ -1,8 +1,8 @@
 Lic. Ingeniera Informatica
 
-Provincia: Coclé
-Distrito: Penonomé
-Barrio: Cieneja Vieja
+Provincia: Coclé.
+Distrito: Penonomé.
+Barrio: Cieneja Vieja.
 
 
 
